@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_share" android:title="@string/share" />
+    <item android:id="@+id/menu_copy" android:title="@string/copy_url" />
+    <item android:id="@+id/menu_open_external" android:title="@string/open_in" />
+    <item android:id="@+id/menu_add_favorite" android:title="@string/add_favorite" />
+    <item android:id="@+id/menu_settings" android:title="@string/settings" />
+    <item android:id="@+id/menu_about" android:title="@string/about" />
+</menu>
