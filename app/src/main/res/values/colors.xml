@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_primary">#0a0a0a</color>
+    <color name="background_secondary">#111111</color>
+    <color name="input_background">#1a1a1a</color>
+    <color name="accent">#5b8def</color>
+    <color name="accent_light">#7bb3f0</color>
+    <color name="accent_dark">#3a6fc7</color>
+    <color name="text_primary">#ffffff</color>
+    <color name="text_secondary">#a0a0a0</color>
+    <color name="border">#2a2a2a</color>
+    <color name="error">#ff4444</color>
+    <color name="shadow_accent">#4D5b8def</color>
+</resources>
