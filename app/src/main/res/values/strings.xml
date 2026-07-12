@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Furat Browser</string>
+    <string name="enter_url">أدخل الرابط...</string>
+    <string name="no_internet">لا يوجد اتصال بالإنترنت</string>
+    <string name="retry">إعادة المحاولة</string>
+    <string name="share">مشاركة</string>
+    <string name="copy_url">نسخ الرابط</string>
+    <string name="open_in">فتح في...</string>
+    <string name="add_favorite">إضافة للمفضلة</string>
+    <string name="settings">إعدادات</string>
+    <string name="about">حول التطبيق</string>
+    <string name="explore">استكشاف</string>
+    <string name="favorites">المفضلة</string>
+    <string name="history">التاريخ</string>
+    <string name="account">حسابي</string>
+    <string name="guest_name">زائر</string>
+    <string name="browse_without_login">تصفح بدون تسجيل</string>
+    <string name="close">إغلاق</string>
+    <string name="add">إضافة</string>
+    <string name="clear_all">مسح الكل</string>
+    <string name="clear_history">مسح التاريخ</string>
+    <string name="reading_mode">وضع القراءة</string>
+    <string name="ad_blocker">حظر الإعلانات</string>
+    <string name="dns_encryption">تشفير DNS</string>
+    <string name="download_images">تنزيل الصور</string>
+    <string name="font_size">حجم الخط</string>
+    <string name="search_engine">محرك البحث الافتراضي</string>
+    <string name="clear_data">مسح البيانات</string>
+    <string name="about_app">حول التطبيق</string>
+    <string name="version">الإصدار 1.0</string>
+    <string name="developer">مطور: Furat Team</string>
+    <string name="download_started">جاري التحميل...</string>
+    <string name="download_complete">اكتمل التحميل</string>
+    <string name="bookmark_added">تمت الإضافة للمفضلة</string>
+    <string name="bookmark_exists">الموقع موجود بالفعل</string>
+    <string name="url_copied">تم نسخ الرابط</string>
+</resources>
